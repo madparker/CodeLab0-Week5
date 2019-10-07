@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "7abc56c7-7cf7-46da-9f22-be0a5bf019cc",
+            "Value": {
+                "id": "dee71ac4-a016-4a87-99d2-dd341f502421",
+                "resourcePath": "objects\/obj_moon\/obj_moon.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "80ef80bf-0ad8-4d9a-912f-27db51d18d17",
             "Value": {
                 "id": "22264be4-b73d-47d0-947b-7ac3bb174a0c",
@@ -172,6 +180,14 @@
                 "id": "61cfcd98-1a80-49d1-9af0-dcd058cb5089",
                 "resourcePath": "views\/d9397b0c-bc31-4476-96dc-7b700f416d44.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ea36109e-beed-49ef-8b4a-368216f81132",
+            "Value": {
+                "id": "a8b99390-bbc8-482a-91e7-71d84b73eec7",
+                "resourcePath": "sprites\/spr_something\/spr_something.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
